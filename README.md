@@ -12,7 +12,7 @@ Tools:
 * A jeweler's torch or a creme brulee burner
 * A soldering block
 * A ring mandrel
-* A wood or nylon mallet
+* A wooden or nylon mallet
 * A #2 half-round file
 * Emery paper: 800 grit, 1200 grit, and 2000 grit
 * Tweezers
@@ -38,7 +38,7 @@ If the edges are not smooth, use the file to file them flat.
 6. Bend the edges a bit further, so they overlap slightly, then move them back against each other and realign.
 This creates tension between the edges, which will help you make the solder joint smooth and nearly invisible.
 ### Step 2: Soldering
-1. Put the ring onto the soldering block and cover the future solder joint with flux.
+1. Put the ring onto the soldering block and cover the future solder joint with Borax mixture using a small paintbrush.
 2. Put two or three 1x1 mm pieces of silver solder onto the joint.
 3. Light the torch and start heating the ring, moving slowly along its outline.
 4. Once the ring is hot enough, the color of the metal changes to pink and red, and the solder flows into the joint.
@@ -47,6 +47,8 @@ This creates tension between the edges, which will help you make the solder join
 7. Put the ring into the pickling solution and leave it there for 30 minutes.
 8. Use tweezers to take the ring out of the pickling solution and rinse it with tap water.
 ### Step 3: Finishing
-1. Use the file to smoothen out the solder joint.
-2. Polish all sides of the ring with emery paper, moving from the lowest grit to the highest.
-3. When you're done with polishing, wash the ring in soapy water to make it ready to wear.
+1. Put the ring onto the mandrel and use the mallet to make its shape rounder.
+2. When the ring is round enough, use the file to smoothen out the solder joint.
+3. Polish all sides of the ring with emery paper, moving from the lowest grit to the highest.
+4. When you're done with polishing, wash the ring in soapy water.
+5. Now the ring is ready to wear!
