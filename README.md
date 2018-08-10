@@ -29,7 +29,7 @@ Most jewelers are happy to meet people taking interest in their trade and are re
 ## Steps
 ### Step 1: Annealing and Shaping
 1. Put the silver onto the the soldering plate.
-2. Light the torch or the creme brulee burner, adjusting the air, so that the flame looks slightly bushy.
+2. Light the torch or the creme brulee burner, adjusting the flame, so it looks slightly bushy.
 3. Anneal the silver with the flame until you notice that the metal changes color.
 4. Turn off the flame and let the silver cool down for a minute.
 5. Use the pliers to form the ring. 
