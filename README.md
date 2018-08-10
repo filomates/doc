@@ -23,7 +23,7 @@ Tools:
 >
 >If it's your first silver ring ever, you probably don't have any tools of your own yet. 
 >Try to find a jeweler in your neighborhood and ask them if you could use some of their older tools. 
-Most jewelers are happy to meet people taking interest in their trade and are ready to help out.
+Most jewelers are happy to meet people taking interest in their trade and are ready to help.
 
 
 ## Steps
