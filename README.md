@@ -38,7 +38,7 @@ Most jewelers are happy to meet people taking interest in their trade, so they u
 The shape is not imporant at this stage. It can be D-shaped or O-shaped. What matters is that the edges meet without any gap.
 6. Bend the edges a bit further, so they overlap slightly, then move them back against each other and realign.
 This creates tension between the edges, which will help you make the solder joint smooth and nearly invisible.
-### Soldering
+### Step 2: Soldering
 1. Put the ring onto the soldering block and cover the future solder joint with flux.
 2. Put two or three 1x1 mm pieces of silver solder onto the joint.
 3. Light the torch and start heating the ring, moving slowly along its outline.
@@ -47,7 +47,7 @@ This creates tension between the edges, which will help you make the solder join
 6. Mix 4 spoons of citric acid with half a cup hot water in a glass jar to prepare the pickling solution. The picking removes the flux and signs of oxidation that takes place during soldering.
 7. Put the ring into the pickling solution and leave it there for 30 minutes.
 8. Use tweezers to take the ring out of the pickling solution and rinse it with tap water.
-### Finishing
+### Step 3: Finishing
 1. Use the file to smoothen out the solder joint.
 2. Polish all sides of the ring with emery paper, moving from the lowest grit to the highest.
 3. When you're done with polishing, wash the ring in soapy water to make it ready to wear.
