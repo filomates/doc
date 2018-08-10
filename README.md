@@ -8,9 +8,7 @@ The length of the piece should equal the circumference of the ring you want to g
 * 4 spoons of citric acid and half a cup hot water for the pickling solution.
 
 Tools:
-* Hlaf-round half-flat pliers
-* A jeweller's saw
-* #0/2 or #0/3 saw blades
+* Half-round half-flat pliers
 * A jeweler's torch or a creme brulee burner
 * A soldering block
 * A ring mandrel
@@ -36,6 +34,7 @@ Most jewelers are happy to meet people taking interest in their trade, so they u
 4. Turn off the flame and let the silver cool down for a minute.
 5. Use the pliers to form the ring. 
 The shape is not imporant at this stage. It can be D-shaped or O-shaped. What matters is that the edges meet without any gap.
+If the edges are not smooth, use the file to file them flat.
 6. Bend the edges a bit further, so they overlap slightly, then move them back against each other and realign.
 This creates tension between the edges, which will help you make the solder joint smooth and nearly invisible.
 ### Step 2: Soldering
