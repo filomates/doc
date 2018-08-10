@@ -38,12 +38,12 @@ If the edges are not smooth, use the file to file them flat.
 6. Bend the edges a bit further, so they overlap slightly, then move them back against each other and realign.
 This creates tension between the edges, which will help you make the solder joint smooth and nearly invisible.
 ### Step 2: Soldering
-1. Put the ring onto the soldering block and cover the future solder joint with Borax mixture using a small paintbrush.
+1. Put the ring onto the soldering block and cover the joint with Borax mixture using a small paintbrush.
 2. Put two or three 1x1 mm pieces of silver solder onto the joint.
-3. Light the torch and start heating the ring, moving the torch in circular motions to heat up the whole ring evenly.
-4. Once the ring is hot enough, the color of the metal changes to light pinkish red, and the solder flows into the joint.
+3. Light the torch and start heating the ring, moving the torch in circular motions to heat the whole ring evenly.
+4. Once the ring is hot enough, the color of the metal changes to light pink or red, and the solder flows into the joint.
 5. When you see the solder flow, turn off the torch and let the ring cool down for a while.
-6. Mix 4 spoons of citric acid with half a cup hot water in a glass jar to prepare the pickling solution. Acid removes the Borax and signs of oxidation that appear on the metal after soldering.
+6. Mix 4 spoons of citric acid with half a cup hot water in a glass jar to prepare the pickling solution. Citric acid removes Borax and signs of oxidation that appear on the metal after soldering.
 7. Put the ring into the pickling solution and leave it there for 30 minutes.
 8. Use the tweezers to take the ring out of the pickle and rinse it thoroughly with tap water.
 ### Step 3: Finishing
