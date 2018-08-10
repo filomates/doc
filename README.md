@@ -2,7 +2,7 @@
 ## What You Need
 Materials:
 * A piece of sterling silver (925/1000 silver alloy), 0.8-1 mm thick, 3-4 mm wide. 
-The length of the piece should equal the circumference of the ring you want to get.
+The length of the piece should match the circumference of the finger where you want to wear it.
 * Two or three small pieces (1x1 mm each) of hard silver solder (700/1000 silver alloy).
 * 1/2 spoon Borax powder mixed with 1/4 spoon water.
 * 4 spoons of citric acid and half a cup hot water for the pickling solution.
